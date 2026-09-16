@@ -1,0 +1,6 @@
+{
+  "name": "Children's Coloring Book Generator",
+  "description": "Generate custom 5-page printable children's coloring books with crisp thick-line art, custom covers, AI brainstorming chat, and high-resolution PDF downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
